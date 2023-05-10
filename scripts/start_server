@@ -1,2 +1,2 @@
 #!/bin/bash
-service nginix start
+service nginx start
